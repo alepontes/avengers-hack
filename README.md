@@ -24,8 +24,31 @@ O algoritmo de navegação é mais eficiente
 - Pedagio
 
 
-## Precificação do serviço - Bruno
-Lorem 
+## Precificação do serviço - OK
+
+Parceiros: 30%
+nomeDoApp: 20%
+
+
+Legendas 
+
+tarifa-fixa base: R$2,00 (custos regulatórios, operacionais e de segurança) por pessoa;
+tarifa-fixa base 2: R$25,00 (custos regulatórios, operacionais e de segurança) unitário;
+tempo (por minuto): R$0,26 * minutos
+distancia: R$1,40 * km rodado 
+
+
+
+opção 1: valor dinamico
+
+tarifa-fixa base + tempo + distância = valor da carona (passível de divisão pela quantidade de pessoas)
+
+
+opção 2: pacote por km rodado
+
+tarifa-fixa base 2 + distancia 
+
+
 
 
 ## Beneficios para o cliente OK
@@ -37,10 +60,16 @@ O motorista recebe um desconto 5% em relação aos clientes
 Cupons de desconto distribuídos para clientes bem avaliados
 No dia 5 de junho, dia mundial do Meio-Ambiente, haverão descontos para os clientes como forma de incentivar o meio sustentável
 
-## Beneficios para os parceiros - Gistavinho
-Publico 
-Privada
+## Beneficios para os parceiros - OK
+Público:
+Porcentagem de lucro nas viagens realizadas
+Sustentabilidade 
+Melhoria da mobilidade urbana
 
+Privado:
+Abatimento de impostos 
+Porcentagem de lucro nas viagens realizadas
+Incentivo ao Meio-Ambiente
 
 
 ## Segurança do cliente - OK
@@ -110,28 +139,45 @@ Quanto mais corridas por carro e mais carros por
 
 
 
-## SWOT - Ale
+## SWOT - OK
 *Forças* 
 Abordagem sustentavel
 Adaptatividade a demanda de locomoção
 
 
 *Oportunidades*
+Melhoria na mobilidade urbana 
 Demanda não suprida de trasporte em grandes e medios centros urbanos
 
+
 *Fraquezas*
+Limitação de recursos, como por exemplo o combustivel
 
 
 *Ameaças*
+Queda de conexão 
+Burucracia 
 
 
-
-## Fontes de Receita
-    % Por viagem
+### Publico alvo
+Usuario de carros particulares 
+Usuario de trasporte publico
 
 
 
 ## O algoritmo de navegação inteligentes
+
+Aplicativos acham o caminho mais curto
+Nem sempre o caminho mais curto é o mais rapido (Transito) 
+Gastos com
+    Desgaste o veiculo
+    Poluição emitida 
+    Combustivel 
+    Stress do(s) passageiros 
+
+Problemas com os horarios comerciais inflexiveis 
+
+
 
 
 ## Responsabilidade Econogica
