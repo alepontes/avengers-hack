@@ -4,7 +4,7 @@ Primeiro Hackathon da Fatec Zona Sul
 
 ## Colaboradores ❤️
 
-[Alexandre Pontes]()
-[Bruno Santana]()
-[Guilherme Andrade]()
-[Gustavo Nascimento]()
+- [Alexandre Pontes]()
+- [Bruno Santana]()
+- [Guilherme Andrade]()
+- [Gustavo Nascimento]()
