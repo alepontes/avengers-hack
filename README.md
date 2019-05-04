@@ -111,13 +111,18 @@ Quanto mais corridas por carro e mais carros por
 
 
 ## SWOT - Ale
-Interno
-    Forças 
-    Oportunidades
+*Forças* 
+Abordagem sustentavel
+Adaptatividade a demanda de locomoção
 
-Externo
-    Fraquezas
-    Ameaças
+
+*Oportunidades*
+Demanda não suprida de trasporte em grandes e medios centros urbanos
+
+*Fraquezas*
+
+
+*Ameaças*
 
 
 
